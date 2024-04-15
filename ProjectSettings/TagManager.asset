@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bounds
+  - water
+  - Body
+  - Enemy
+  - Platform
+  - ground
+  - Interable
+  - CanEnter
+  - Ci
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - ground
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - Platform
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: B
+    uniqueID: 853462161
+    locked: 0
+  - name: M
+    uniqueID: 1822193235
+    locked: 0
+  - name: F
+    uniqueID: 1328312177
+    locked: 0
